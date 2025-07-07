@@ -1,11 +1,11 @@
-# 🧮 Portfolio Asset Allocator
+# Portfolio Asset Allocator
 
 This tool is an **interactive portfolio allocator** that helps users apply their investment strategy using simulations and visualizations.  
 It is **not** an asset manager — you must define your own strategy, goals, and constraints beforehand. The allocator helps you *execute* that strategy more intelligently.
 
 ---
 
-## 🚀 What It Does
+## What It Does
 
 - Simulates thousands of random portfolio allocations
 - Evaluates key metrics:
@@ -22,7 +22,7 @@ It is **not** an asset manager — you must define your own strategy, goals, and
 
 ---
 
-## 📁 Structure (Sections 1–10)
+## Structure (Sections 1–10)
 
 1. **Libraries** – Import required packages  
 2. **User Input & Data Fetching** – Select tickers, period, investment size  
@@ -35,11 +35,11 @@ It is **not** an asset manager — you must define your own strategy, goals, and
 9. **Comparison** – Quantify train vs test performance changes  
 10. **Visualization** – Generate interactive charts (portfolio value, efficient frontier, contribution, correlation)
 
-🟨 **Note:** When user input is required, it is clearly highlighted in the code using `# > USER INPUT`
+**Note:** When user input is required, it is clearly highlighted in the code using `# > USER INPUT`
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 Install required packages:
 
